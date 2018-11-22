@@ -86,4 +86,3 @@ if (message.content === '!spam') {
 
 client.login("NTE0OTQzNTA1NjUxNzI4Mzkx.DtfaJQ.UqpRsYQJNb12r21GOjkSjpjVIRc");
 client2.login("NTE1MDQ3MzI5MDgzMDMxNTYz.DtfbDg.v6IuSMblEIbsvp0t1PoH0PpHDXk");
-client3.login("NTE1MDQ4MDc1NTM0Nzk0NzU2.DtfbpQ.mHjkhimp6K3nyXFDF2qPYz_C51A");
